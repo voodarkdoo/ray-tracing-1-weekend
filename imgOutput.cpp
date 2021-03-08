@@ -2,6 +2,8 @@
 //#include "vec3.h"
 #include "ray.h"
 
+
+//new commit 
 //vec3 color(const ray& r) {
 //        vec3 unit_direction = unit_vector(r.direction());
 //        float t = 0.5*(unit_direction.y() + 1.0);
