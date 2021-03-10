@@ -145,10 +145,3 @@ inline vec3& vec3::operator/=(const float t){
 inline vec3 unit_vector(vec3 v) {
         return v / v.length();
 }
-
-
-
-
-
-
-                
